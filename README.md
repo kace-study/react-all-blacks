@@ -1,3 +1,12 @@
+## What is All Blacks?
+This is a simple react app that you collect all black panel.
+
+## Rules
+- There are 9 panels that color is white or black 
+- The ratio of the color is at random
+- Color of panel will change if you click it
+- You can clear game by changing color of all panels to black
+
 ## Set Up in Your Local
 you can run the following command:
 ```
