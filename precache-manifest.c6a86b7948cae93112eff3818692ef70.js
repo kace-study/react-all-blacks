@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/react-all-blacks/static/css/main.dd92256f.chunk.css"
   },
   {
-    "revision": "e3a9975751f39160a0c8ec5567adaa4d",
+    "revision": "691d87c8ead94848e266fda8a91d7b10",
     "url": "/react-all-blacks/index.html"
   }
 ];
