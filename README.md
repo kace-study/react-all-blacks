@@ -1,6 +1,9 @@
 ## What is All Blacks?
 This is a simple react app that you collect all black panel.
 
+## URL
+https://kace-study.github.io/react-all-blacks/index.html
+
 ## Rules
 - There are 9 panels colored by white or black 
 - The ratio of the color is at random
