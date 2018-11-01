@@ -9,6 +9,7 @@ https://kace-study.github.io/react-all-blacks/index.html
 - The ratio of the color is at random
 - Color of panel will change if you click it
 - You can clear game by changing color of all panels to black
+- You can restart the game by clicking start button
 
 ## Set Up in Your Local
 you can run the following command:
