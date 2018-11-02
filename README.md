@@ -5,9 +5,8 @@ This is a simple react app that you collect all black panel.
 https://kace-study.github.io/react-all-blacks/index.html
 
 ## Rules
-- There are 9 panels colored by white or black 
-- The ratio of the color is at random
-- Color of panel will change if you click it
+- There are 9 panels colored by white or black (color is determined at random)
+- Color of panel will change when you click it
 - You can clear game by changing color of all panels to black
 - You can restart the game by clicking start button
 
